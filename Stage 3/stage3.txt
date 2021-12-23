@@ -1,0 +1,6 @@
+- Show stage 1 mock-up.
+- Briefly recap what users did in first user test
+- Show stage 2 mock-up (after your changes).
+- Show and discuss results of second user tests. 
+- Talk about the updated UI, benefit of changes?
+- Show final design and defense of every element via HCI principles
