@@ -1,0 +1,6 @@
+- Show stage 1 mock-up, tasks, and GOMS model for each task
+- What did users do?
+- How did their actions line up with your expectations?
+- How did their actions line up with your GOMS?
+- Lessons learned
+- Show and discuss Results of first user tests
