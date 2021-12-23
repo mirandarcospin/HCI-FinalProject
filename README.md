@@ -4,4 +4,4 @@
 
 **Assignment flow:** <br> ![image](https://user-images.githubusercontent.com/42848800/147176043-58883999-566a-4eee-b14c-c3b3bd5c913a.png)
 <br>
-**Our Final mobile application:** On [Figma](https://www.figma.com/file/o2QRuaRQr4OxUXYvsuF0sK/HCI-App?node-id=0%3A1)
+**Here:** [Final mobile application on Figma](https://www.figma.com/file/o2QRuaRQr4OxUXYvsuF0sK/HCI-App?node-id=0%3A1)
