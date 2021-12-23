@@ -1,0 +1,4 @@
+- Preliminary design mock-ups
+- The strengths of this initial design
+- Determine three (3) primary tasks that would be popular on your app
+- Results of preliminary GOMS applied to your UI. (Not user testing yet, just create the model)
